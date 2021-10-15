@@ -1,1 +1,1 @@
-senkopy: phyton "senkopy.py"
+senkopy: phyton "main.py"
